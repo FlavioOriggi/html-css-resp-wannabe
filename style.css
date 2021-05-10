@@ -141,7 +141,8 @@ img {
   #why .row > h1{
     padding-top: 20px;
   }
-
+  
+  #lezioni .row > h1,
   #steps .row > h1,
   #why .row > h1{
     margin-top: 0;
